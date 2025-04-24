@@ -29,10 +29,10 @@ wasmJsBrowserRun -t --quiet --debug
 
 
 # To publish website on server:
-**STEP-1: Build the project**
-**STEP-2: In ComposeApp folder /build/dist/ folder will be created**
-**STEP-3: Publish all the content of /build/dist/ folder to server.**
-**STEP-4: On Server Create or Add ".htaccess" file and add below content in it:**
+**STEP-1: Build the project**\n
+**STEP-2: In ComposeApp folder /build/dist/ folder will be created**\n
+**STEP-3: Publish all the content of /build/dist/ folder to server.**\n
+**STEP-4: On Server Create or Add ".htaccess" file and add below content in it:**\nl̥
     `AddType application/wasm .wasm
      AddType application/javascript .js .mjs
      AddType text/css .css`
