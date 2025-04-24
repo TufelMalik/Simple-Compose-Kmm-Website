@@ -22,10 +22,10 @@ You can open the web application by running the `:composeApp:wasmJsBrowserDevelo
 task.
 
 # To Run the Website Add below gradle task:
-wasmJsBrowserRun -t --quiet --debug
+`wasmJsBrowserRun -t --quiet --debug`
 
 # To Build the project:
-./gradlew build
+`./gradlew build`
 
 
 # To publish website on server:
