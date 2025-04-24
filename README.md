@@ -37,7 +37,7 @@ task.
 
 **STEP-4: On Server Create or Add ".htaccess" file and add below content in it:**
 
-    `AddType application/wasm .wasm
+     AddType application/wasm .wasm
      AddType application/javascript .js .mjs
-     AddType text/css .css`
+     AddType text/css .css
 
